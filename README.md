@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##This project is currently in progress.
+## This project is currently in progress.
 * It allows the user to create an user account and input a habit that they want to work on. 
 * The user information and habit information are stored in a mongoDB database.
 * The user interface components will be built with ReactJS
